@@ -6,7 +6,7 @@ Data has been collected on various real estate transactions in Nashville. This d
 
 It is your job to ensure that this data set is cleaned up and transformed to a point where it can be taken to various data analytics tools for further preprocessing and subsequent analysis.
 
-## Steps followed 
+## Steps Followed 
 
 - Load data from Microsoft Excel to Microsoft SQL Server Management Studio (SSMS) using MS Server Integration Services (SSIS).
 - Explore the Dataset and check for null values.
